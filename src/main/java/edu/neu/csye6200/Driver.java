@@ -12,6 +12,9 @@ public class Driver {
 
          //Add your code in between these two print statements
 		
+		Store ABC = new Store();
+		ABC.demo();
+		
 		System.out.println("\n\n============Main Execution End===================");
 	}
 

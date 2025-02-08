@@ -1,0 +1,5 @@
+PlumbingService,95,Plumber1,3,60
+HouseCleaning,75,Cleaner2,8,120
+CarDetailing,150,AutoShop3,2,180
+ElectricalRepair,110,Electrician4,5,90
+PetGrooming,65,PetSalon5,10,45

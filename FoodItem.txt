@@ -1,0 +1,5 @@
+Burger,8.99,F1,Non-Veg,4
+Tofu,5.50,V2,Veg,3
+Almond Milk,3.75,D3,Veg,12
+Apples,1.99,F4,Veg,10
+Chicken,9.50,M5,Non-Veg,2

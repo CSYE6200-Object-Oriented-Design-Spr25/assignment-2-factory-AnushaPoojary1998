@@ -1,0 +1,5 @@
+Wireless Headphones,129.99,H2,1-year,45
+Laptop,799.99,L4,3-year,22
+Smartwatch,199.95,W3,18-month,38
+Digital Camera,349.50,C7,2-year,15
+Bluetooth Speaker,59.99,S5,1-year,50
